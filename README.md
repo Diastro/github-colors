@@ -1,7 +1,7 @@
 github-colors
 =============
 
-Github programming language color coding based on Github's languages.yml
+Github programming language color coding based on Github's linguist's languages.yml
 
 ## Dependencies
  * PyYAML
