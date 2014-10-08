@@ -12,13 +12,8 @@ def main():
     if not response.ok:
         print "Are you sure the url [%s] is right?" % url
 
-    raw = ""
-    for block in response.iter_content(1024):
-        if not block:
-            break
-        raw += block
 
-    languages = yaml.load(raw)
+    languages = yaml.load(response.text)
     output = {}
 
     for key, value in languages.iteritems():
