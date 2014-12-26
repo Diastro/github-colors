@@ -28,6 +28,7 @@ def main():
     
     #csv
     writer = csv.writer(open("github-colors.csv", "w"))
+    writer.writerow(["language","color"])
     for key, value in output.items():
         writer.writerow([key, value])
 
