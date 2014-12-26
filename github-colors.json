@@ -1,6 +1,7 @@
 {
     "Mercury": "#abcdef", 
     "TypeScript": "#31859c", 
+    "PureBasic": "#5a6986", 
     "Objective-C++": "#4886FC", 
     "Self": "#0579aa", 
     "edn": "#db5855", 

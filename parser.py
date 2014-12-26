@@ -1,3 +1,4 @@
+import csv
 import json
 
 import yaml
@@ -21,9 +22,14 @@ def main():
             output[key] = value['color']
         except KeyError:
             continue
-
+	
+    # json
     open("github-colors.json", "w").write(json.dumps(output, indent=4))
-
+    
+    #csv
+    writer = csv.writer(open("github-colors.csv", "w"))
+    for key, value in output.items():
+        writer.writerow([key, value])
 
 if __name__ == "__main__":
     main()
