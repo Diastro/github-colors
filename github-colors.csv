@@ -44,6 +44,7 @@ Nit,#009917
 APL,#5A8164
 Hack,#878787
 Go,#375eab
+World of Warcraft Addon Data,#e0b330
 Visual Basic,#945db7
 PHP,#4F5D95
 Cirru,#ccccff
@@ -81,6 +82,7 @@ Isabelle,#FEFE00
 RDoc,#8E84BF
 Metal,#8f14e9
 Clarion,#db901e
+GraphQL,#E535AB
 JSONiq,#40d47e
 Boo,#d4bec1
 AutoIt,#1C3552
@@ -130,6 +132,7 @@ CSS,#563d7c
 Emacs Lisp,#c065db
 Stan,#b2011d
 SaltStack,#646464
+EJS,#a91e50
 QML,#44a51c
 Pike,#005390
 LOLCODE,#cc9900
