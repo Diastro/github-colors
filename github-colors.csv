@@ -18,12 +18,15 @@ Nix,#7e7eff
 RAML,#77d9fb
 Nginx,#9469E9
 MTML,#b7e1f4
+Racket,#22228f
 Elixir,#6e4a7e
 SAS,#B34936
 Agda,#315665
 wisp,#7582D1
+SRecode Template,#348a34
 D,#ba595e
 Sass,#CF649A
+PowerBuilder,#8f0f8d
 Kotlin,#F18E33
 Opal,#f7ede0
 Crystal,#776791
@@ -44,15 +47,14 @@ Nit,#009917
 APL,#5A8164
 Hack,#878787
 Go,#375eab
-World of Warcraft Addon Data,#e0b330
 Visual Basic,#945db7
 PHP,#4F5D95
-Cirru,#ccccff
+NumPy,#9C8AF9
 SQF,#3F3F3F
 Glyph,#e4cc98
 Java,#b07219
 MAXScript,#00a6a6
-Scala,#DC322F
+Scala,#c22d40
 ColdFusion CFC,#ed2cd6
 Makefile,#427819
 ColdFusion,#ed2cd6
@@ -64,7 +66,7 @@ Factor,#636746
 Haxe,#df7900
 Pure Data,#91de79
 Forth,#341708
-Red,#ee0000
+Red,#f50000
 Hy,#7790B2
 Volt,#1F1F1F
 LSL,#3d9970
@@ -75,26 +77,26 @@ HTML,#e44b23
 Lex,#DBCA00
 API Blueprint,#2ACCA8
 Swift,#ffac45
+Apollo Guidance Computer,#0B3D91
 SCSS,#CF649A
 C,#555555
 AutoHotkey,#6594b9
 Isabelle,#FEFE00
-RDoc,#8E84BF
 Metal,#8f14e9
 Clarion,#db901e
-GraphQL,#E535AB
 JSONiq,#40d47e
 Boo,#d4bec1
 AutoIt,#1C3552
 Clojure,#db5855
+EQ,#a78649
 Rust,#dea584
 Prolog,#74283c
+Groff,#ecdebe
 SourcePawn,#5c7611
 AMPL,#E6EFBB
 FORTRAN,#4d41b1
 ANTLR,#9DC3FF
-NumPy,#9C8AF9
-reStructuredText,#B3BCBC
+Cirru,#ccccff
 Harbour,#0e60e3
 Yacc,#4B6C4B
 Tcl,#e4cc98
@@ -121,7 +123,7 @@ Gnuplot,#f0a9f0
 JFlex,#DBCA00
 NetLinx,#0aa0ff
 C#,#178600
-Turing,#45f715
+Turing,#cf142b
 Vala,#fbe5cd
 Processing,#0096D8
 Arduino,#bd79d1
@@ -149,6 +151,7 @@ KRL,#28431f
 Ren'Py,#ff7f7f
 Unified Parallel C,#4e3617
 Golo,#88562A
+PostScript,#da291c
 Fancy,#7b9db4
 OCaml,#3be133
 Shen,#120F14
@@ -211,8 +214,7 @@ Haskell,#29b544
 NCL,#28431f
 Io,#a9188d
 Rouge,#cc0088
-Racket,#22228f
+RUNOFF,#665a4e
 Haml,#ECE2A9
 Dogescript,#cca760
 nesC,#94B0C7
-Markdown,#083FA1
