@@ -3,7 +3,7 @@ github-colors
 
 Github programming language colors based on Github's linguist's languages.yml
 
-Last update : *October 2016*
+Last update : *December 2016*
 
 ## Dependencies
  * PyYAML
