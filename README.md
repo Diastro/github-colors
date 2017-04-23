@@ -9,7 +9,7 @@ Last update : *December 2016*
  * PyYAML
  * Requests
 
-##Execution
+## Execution
 1) To update github-colors.json based on the latest [linguist's languages.yaml](https://github.com/github/linguist/blob/master/lib/linguist/languages.yml)
 ~~~ sh
 $ git clone https://github.com/Diastro/github-colors.git
